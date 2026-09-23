@@ -1,0 +1,4 @@
+temperature = 32
+
+if temperature >= 30:
+    print("It's hot Today!")
